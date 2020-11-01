@@ -1,7 +1,7 @@
 # air_quality_prediction
 Predicting historical air quality based on satellite data
 
-Report: https://docs.google.com/document/d/1e1y-hwduVXcDYs8KxxoGSrK_LI5mCOpe-7WY_QkcdoI/edit?usp=sharing
+Report: https://docs.google.com/document/d/1e1y-hwduVXcDYs8KxxoGSrK_LI5mCOpe-7WY_QkcdoI/edit?usp=sharing or as PDF ('AirQ Report.pdf')
 
 Dashboard to view results: http://www.datasciencecastnet.com/airq/
 
